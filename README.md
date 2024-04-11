@@ -1,4 +1,6 @@
-# [![waylon walker header](https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/github-header.png)](https://leomofthings.com)
+gm, hello, [bawoni: yoruba], I'm Ayodele Leom
+
+# [![ayodele header image](https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/github-header.png)](https://leomofthings.com)
 
 <p align='center'>
 <a href="https://twitter.com/leomofthings"><img height="30" src="https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -6,9 +8,7 @@
 <a href="https://www.linkedin.com/in/aransiolaayo/"><img height="30" src="https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/linkedin.png?raw=true"></a>
 </p>
 
-gm, hello, [bawoni: yoruba], I'm Ayodele Leom
-
-I create technical contents which include blog posts, video tutorials, guest authoring and open source contributions mainly on documentation and front-end web development. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of my latest articles on [leomofthings.com](leomofthings.com). The website is currently a work in progress which will soon include a revamp of my portfolio. If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/leomofthings), give me a shout out [@leomofthings](https://twitter.com/leomofthings), give some ♥ on [youtube](https://www.youtube.com/@leomofthings/).
+I create technical contents which include blog posts, video tutorials, guest authoring and open source contributions mainly on documentation and front-end web development. I have a passion for learning and sharing my knowledge with others in a way that is as public as possible. You can see a full list of my articles on [leomofthings.com](https://leomofthings.com). The website is currently a work in progress which will soon include a revamp of my portfolio. If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/leomofthings), give me a shout out [@leomofthings](https://twitter.com/leomofthings), drop some ♥ on [youtube](https://www.youtube.com/@leomofthings/).
 
 ---
 
