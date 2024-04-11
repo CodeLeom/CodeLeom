@@ -3,7 +3,7 @@
 
 <p align='center'>
 <a href="https://twitter.com/leomofthings"><img height="30" src="https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/leomofthings"><img height="30" src="https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/icon/buymeacoffee.png?raw=true"></a>
+<a href="https://www.buymeacoffee.com/leomofthings"><img height="30" src="https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/buymeacoffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/aransiolaayo/"><img height="30" src="https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/linkedin.png?raw=true"></a>
 </p>
 
