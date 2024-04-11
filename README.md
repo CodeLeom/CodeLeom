@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/aransiolaayo/"><img height="30" src="https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/linkedin.png?raw=true"></a>
 </p>
 
-I create technical contents which include blog posts, video tutorials, guest authoring and open source contributions mainly on documentation and front-end web development. I have a passion for learning and sharing my knowledge with others in a way that is as public as possible. You can see a full list of my articles on [leomofthings.com](https://leomofthings.com). The website is currently a work in progress which will soon include a revamp of my portfolio. If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/leomofthings), give me a shout out [@leomofthings](https://twitter.com/leomofthings), drop some ♥ on [youtube](https://www.youtube.com/@leomofthings/).
+I create technical contents which include blog posts, video tutorials, guest authoring and open source contributions mainly on documentation and front-end web development. I have a passion for learning and sharing my knowledge with others in a way that is as public as possible. You can see a full list of my articles on [leomofthings.com](https://leomofthings.com). The website is currently a work in progress which will soon include a revamp of my portfolio. Take a look at my contents on [youtube](https://www.youtube.com/@leomofthings/) and drop some ♥.
 
 ---
 
@@ -18,7 +18,7 @@ I create technical contents which include blog posts, video tutorials, guest aut
  
 ### Give Back
 
-I love open source and community. I am not yet a heavy contributor to any open-source projects, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the project. I 💕 a good onboarding documentation with good example. Hence, anytime I found one lacking, I contribute to improve it.
+I love open source and community. I am not yet a heavy contributor to any open-source projects, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the project. I love💕 good onboarding documentation with good example. Hence, anytime I found one lacking, I contribute to improve it.
 
 ---
 
@@ -26,15 +26,16 @@ I love open source and community. I am not yet a heavy contributor to any open-s
 
 I write blog posts, most of which you will find on my personal website [leomofthings.com](https://leomofthings.com) and [https://medium.com/@leomofthings](https://medium.com/@leomofthings).
 
-I write about things I am familiar with, things that confuse people that I mentor, and things that I am learning. Day to day I make things for the **web** using **React** and **love**.
+I write about things I am familiar with, things that confuse people that I mentor, and things that I am learning. Day to day I make things for the **web** using **React** and **💕**.
 
 <details>
  <summary><strong>other blog posts</strong></summary>
- <a href="https://blog.apify.com/author/ayodele">Automation Contents</a>
- <a href="https://zitadel.com/blog/zitadel-vs-firebase">Zitadel Comparison with Firebase</a>
- 
+ - <a href="https://blog.apify.com/author/ayodele">Automation Contents for Apify</a>
+ - <a href="https://zitadel.com/blog/zitadel-vs-firebase">Zitadel Comparison with Firebase</a>
 </details>
 
+
+If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/leomofthings). Don't forget to give me a shout out [@leomofthings](https://twitter.com/leomofthings) on X (formerly Twitter).
 ---
 
 ## Stargazers
