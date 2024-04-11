@@ -1,4 +1,4 @@
-gm, hello, [bawoni: yoruba], I'm Ayodele Leom
+### gm, hello, [bawoni: yoruba], I'm Ayodele Leom
 
 # [![ayodele header image](https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/github-header.png)](https://leomofthings.com)
 
@@ -13,7 +13,7 @@ I create technical contents which include blog posts, video tutorials, guest aut
 ---
 
  <p>
-  <img width="250" align='left' src="https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://raw.githubusercontent.com/CodeLeom/CodeLeom/main/images/htbf.png?raw=true">
 </p>
  
 ### Give Back
