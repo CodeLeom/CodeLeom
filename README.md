@@ -38,6 +38,5 @@ I write about things I am familiar with, things that confuse people that I mento
 If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/leomofthings). Don't forget to give me a shout out [@leomofthings](https://twitter.com/leomofthings) on X (formerly Twitter).
 ---
 
-## Stargazers
-
-[![Stargazers repo roster for @CodeLeom/CodeLeom](https://reporoster.com/stars/CodeLeom/CodeLeom)](https://github.com/CodeLeom/CodeLeom/stargazers)
+## DevCard
+<a href="https://app.daily.dev/leomofthings"><img src="https://api.daily.dev/devcards/v2/qqNPmHRoP2.png?r=jvh" width="356" alt="Ayodele Aransiola's Dev Card"/></a>
