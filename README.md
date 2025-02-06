@@ -9,7 +9,7 @@
 </p>
 
 Ayodele Aransiola is a seasoned software engineer, technical writer and developer advocate with expertise in open source, software products, and serverless technologies. He has contributed to [Near Protocol's](https://near.org/) documentation, [Directus'](https://directus.io/) documentation and blog, authored various contents for section engineering publications and Draft.dev; He is also an ambassador for [Algolia](https://www.algolia.com/).
-With over a million views across various reputable publications, including Directus, Apify, Hashnode, Dev.to, Daily.co, and Medium. Ayodele is excelent at building relationships with key stakeholders, including developers, engineers, and product managers, and leads strategic initiatives with cross functional teams and individuals.
+With over a million views across various reputable publications, including Directus, Apify, Hashnode, Dev.to, Daily.co, and Medium. Ayodele is excellent at building relationships with key stakeholders, including developers, engineers, and product managers, and leads strategic initiatives with cross-functional teams and individuals.
 
 He is also skilled in collecting feedbacks from the developer community, prioritizing feature requests, and aligning internal organizations with developer' needs. Ayodele has given several talks, workshops, and live coding demos, both virtually and onsite, inspiring and educating others as a speaker. He is passionate about developer education
 
