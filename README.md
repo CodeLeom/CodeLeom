@@ -43,4 +43,4 @@ If you found value in something I have created, please feel free to send a [tip]
 ---
 
 ## DevCard
-<a href="https://app.daily.dev/leomofthings"><img src="https://api.daily.dev/devcards/v2/qqNPmHRoP2.png?r=jvh" width="356" alt="Ayodele Aransiola's Dev Card"/></a>
+<a href="https://app.daily.dev/leomofthings"><img src="https://api.daily.dev/devcards/v2/qqNPmHRoP2.png?r=ycb" width="356" alt="Ayodele Aransiola's Dev Card"/></a>
